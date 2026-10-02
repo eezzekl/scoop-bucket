@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eezzekl/skill-sync/releases/download/v0.1.0/skill-sync_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/eezzekl/skill-sync/releases/download/v0.2.0/skill-sync_0.2.0_windows_amd64.zip",
             "bin": [
                 "skill-sync.exe"
             ],
-            "hash": "8f916f3fbf2debf3d687f2228eba9710788fe657da4da7d6747c052494bdc111"
+            "hash": "518bac3065fac869bd46e17d99190ffafaaaf7d4fd6e87163d238915ef766f99"
         },
         "arm64": {
-            "url": "https://github.com/eezzekl/skill-sync/releases/download/v0.1.0/skill-sync_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/eezzekl/skill-sync/releases/download/v0.2.0/skill-sync_0.2.0_windows_arm64.zip",
             "bin": [
                 "skill-sync.exe"
             ],
-            "hash": "f6090c6c13b0b83b3c4f045b564c64822e5c05631d0ff6a9a52b169492456687"
+            "hash": "5722717a4260a39032bbcc199baae3c4c47e7c6d3cd952540fcefd6f98ad423c"
         }
     },
     "homepage": "https://github.com/eezzekl/skill-sync",
